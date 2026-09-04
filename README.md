@@ -1,2 +1,2 @@
 # learn-rust
-One compiler error away from enlightenment
+Exploring memory safety at the expense of my sanity.
